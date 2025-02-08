@@ -1,0 +1,5 @@
+Name,Math,Science,English,Math Grade,Science Grade,English Grade,Min Score,Max Score,Range,Average,Pass/Fail,Total Score,Std Dev,Subject Ranking
+John,80,90,85,B,A,A,80,90,10,85.0,Pass,255,4.08,Science > English > Math
+Jane,65,65,75,C,C,B,65,75,10,68.33333333333333,Pass,205,4.71,English > Science > Math
+Bob,45,60,50,F,D,D,45,60,15,51.666666666666664,Pass,155,6.24,Science > English > Math
+Jake,45,39,50,F,F,D,39,50,11,44.666666666666664,Fail,134,4.5,English > Math > Science
